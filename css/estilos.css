@@ -27,6 +27,15 @@ nav a:hover{
     width:100%;
     height:100%;
 }
+.recipe{
+    padding-top: 15px;
+}
+.recipe h3{
+    color: wheat;
+}
+.recipe p{
+    color: wheat;
+}
 form{
     padding-left: 10px;
     padding-bottom: 10px;
